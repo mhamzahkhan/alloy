@@ -344,6 +344,7 @@ require (
 	github.com/buger/jsonparser v1.1.1 // indirect
 	github.com/burningalchemist/sql_exporter v0.0.0-20240103092044-466b38b6abc4 // indirect
 	github.com/c2h5oh/datasize v0.0.0-20231215233829-aa82cc1e6500 // indirect
+	github.com/caarlos0/env/v11 v11.3.1 // indirect
 	github.com/caarlos0/env/v9 v9.0.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/cenkalti/backoff/v5 v5.0.3 // indirect
@@ -565,6 +566,7 @@ require (
 	github.com/hashicorp/memberlist v0.5.3 // indirect
 	github.com/hashicorp/nomad/api v0.0.0-20251216171439-1dee0671280e // indirect
 	github.com/hashicorp/serf v0.10.2 // indirect
+	github.com/hashicorp/vault-client-go v0.4.3 // indirect
 	github.com/hashicorp/vault/api v1.20.0 // indirect
 	github.com/hashicorp/vault/api/auth/approle v0.2.0 // indirect
 	github.com/hashicorp/vault/api/auth/aws v0.2.0 // indirect
@@ -589,6 +591,7 @@ require (
 	github.com/influxdata/influxdb-observability/influx2otel v0.5.12 // indirect
 	github.com/influxdata/line-protocol/v2 v2.2.1 // indirect
 	github.com/influxdata/telegraf v1.35.2 // indirect
+	github.com/ingka-group/nutanix-exporter v1.9.0 // indirect
 	github.com/ionos-cloud/sdk-go/v6 v6.3.5 // indirect
 	github.com/itchyny/timefmt-go v0.1.7 // indirect
 	github.com/jackc/chunkreader/v2 v2.0.1 // indirect

@@ -628,6 +628,8 @@ github.com/burningalchemist/sql_exporter v0.0.0-20240103092044-466b38b6abc4 h1:d
 github.com/burningalchemist/sql_exporter v0.0.0-20240103092044-466b38b6abc4/go.mod h1:aRr7CZ/KleZpcDkQVsNeXE1BFT3xRG8baUHJ7J+j8NI=
 github.com/c2h5oh/datasize v0.0.0-20231215233829-aa82cc1e6500 h1:6lhrsTEnloDPXyeZBvSYvQf8u86jbKehZPVDDlkgDl4=
 github.com/c2h5oh/datasize v0.0.0-20231215233829-aa82cc1e6500/go.mod h1:S/7n9copUssQ56c7aAgHqftWO4LTf4xY6CGWt8Bc+3M=
+github.com/caarlos0/env/v11 v11.3.1 h1:cArPWC15hWmEt+gWk7YBi7lEXTXCvpaSdCiZE2X5mCA=
+github.com/caarlos0/env/v11 v11.3.1/go.mod h1:qupehSf/Y0TUTsxKywqRt/vJjN5nz6vauiYEUUr8P4U=
 github.com/caarlos0/env/v9 v9.0.0 h1:SI6JNsOA+y5gj9njpgybykATIylrRMklbs5ch6wO6pc=
 github.com/caarlos0/env/v9 v9.0.0/go.mod h1:ye5mlCVMYh6tZ+vCgrs/B95sj88cg5Tlnc0XIzgZ020=
 github.com/cenkalti/backoff/v3 v3.0.0/go.mod h1:cIeZDE3IrqwwJl6VUwCN6trj1oXrTS4rc0ij+ULvLYs=
@@ -1340,6 +1342,8 @@ github.com/hashicorp/nomad/api v0.0.0-20251216171439-1dee0671280e/go.mod h1:sldF
 github.com/hashicorp/serf v0.9.6/go.mod h1:TXZNMjZQijwlDvp+r0b63xZ45H7JmCmgg4gpTwn9UV4=
 github.com/hashicorp/serf v0.10.2 h1:m5IORhuNSjaxeljg5DeQVDlQyVkhRIjJDimbkCa8aAc=
 github.com/hashicorp/serf v0.10.2/go.mod h1:T1CmSGfSeGfnfNy/w0odXQUR1rfECGd2Qdsp84DjOiY=
+github.com/hashicorp/vault-client-go v0.4.3 h1:zG7STGVgn/VK6rnZc0k8PGbfv2x/sJExRKHSUg3ljWc=
+github.com/hashicorp/vault-client-go v0.4.3/go.mod h1:4tDw7Uhq5XOxS1fO+oMtotHL7j4sB9cp0T7U6m4FzDY=
 github.com/hashicorp/vault/api v1.7.2/go.mod h1:xbfA+1AvxFseDzxxdWaL0uO99n1+tndus4GCrtouy0M=
 github.com/hashicorp/vault/api v1.20.0 h1:KQMHElgudOsr+IbJgmbjHnCTxEpKs9LnozA1D3nozU4=
 github.com/hashicorp/vault/api v1.20.0/go.mod h1:GZ4pcjfzoOWpkJ3ijHNpEoAxKEsBJnVljyTe3jM2Sms=
@@ -1407,6 +1411,8 @@ github.com/influxdata/line-protocol/v2 v2.2.1 h1:EAPkqJ9Km4uAxtMRgUubJyqAr6zgWM0
 github.com/influxdata/line-protocol/v2 v2.2.1/go.mod h1:DmB3Cnh+3oxmG6LOBIxce4oaL4CPj3OmMPgvauXh+tM=
 github.com/influxdata/telegraf v1.35.2 h1:MWeNIBGNSTDbXix87WGXWJAeMgSW9BoLxWQ4zmFok6c=
 github.com/influxdata/telegraf v1.35.2/go.mod h1:0jgmYMXNgG/BdpEo9FFbaR+F57mNu5k7W9QPZQY2YB8=
+github.com/ingka-group/nutanix-exporter v1.9.0 h1:0+X40HVPRUwB31ObOHboQ4oUqhU36mM1u7sPbvtYOCk=
+github.com/ingka-group/nutanix-exporter v1.9.0/go.mod h1:lNOc3IYWvewcyYdbuIVJWHsD+oJ7vuVWgdJOnXEpdVY=
 github.com/ionos-cloud/sdk-go/v6 v6.3.5 h1:6fHArdV1lf50iRhCkCP7wkvGwWzVwi+l9w1t5mwkOa8=
 github.com/ionos-cloud/sdk-go/v6 v6.3.5/go.mod h1:nUGHP4kZHAZngCVr4v6C8nuargFrtvt7GrzH/hqn7c4=
 github.com/itchyny/timefmt-go v0.1.7 h1:xyftit9Tbw+Dc/huSSPJaEmX1TVL8lw5vxjJLK4GMMA=
